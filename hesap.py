@@ -13,7 +13,6 @@ def bolme():
         print("lutfen gecerli bir sayi giriniz")
         bolme()
     else:
-        2
         print("toplam : " , int(x1) / int(x2) )
 
 
